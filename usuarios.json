@@ -1,0 +1,122 @@
+[
+    {
+      nombre: 'Brian',
+      apellido: 'Fair',
+      email: 'brian.fair@hotmail.com',
+      fecha_creacion: new Date()
+    },
+    {
+      nombre: 'Lucía',
+      apellido: 'Martínez',
+      email: 'lucia.martinez@gmail.com',
+      fecha_creacion: new Date()
+    },
+    {
+      nombre: 'Carlos',
+      apellido: 'González',
+      email: 'carlosg87@yahoo.com',
+      fecha_creacion: new Date()
+    },
+    {
+      nombre: 'Sofía',
+      apellido: 'Rojas',
+      email: 'sofia.rojas@outlook.com',
+      fecha_creacion: new Date()
+    },
+    {
+      nombre: 'Andrés',
+      apellido: 'Ramírez',
+      email: 'andresr@gmail.com',
+      fecha_creacion: new Date()
+    },
+    {
+      nombre: 'Valentina',
+      apellido: 'Mendoza',
+      email: 'valen.mendoza@gmail.com',
+      fecha_creacion: new Date()
+    },
+    {
+      nombre: 'Diego',
+      apellido: 'Castillo',
+      email: 'dcastillo@hotmail.com',
+      fecha_creacion: new Date()
+    },
+    {
+      nombre: 'Camila',
+      apellido: 'Silva',
+      email: 'camila.silva@icloud.com',
+      fecha_creacion: new Date()
+    },
+    {
+      nombre: 'Mateo',
+      apellido: 'Herrera',
+      email: 'mateo.herrera@yahoo.com',
+      fecha_creacion: new Date()
+    },
+    {
+      nombre: 'Isabella',
+      apellido: 'García',
+      email: 'isagarcia@gmail.com',
+      fecha_creacion: new Date()
+    },
+    {
+      nombre: 'Tomás',
+      apellido: 'López',
+      email: 'tomas.lopez@protonmail.com',
+      fecha_creacion: new Date()
+    },
+    {
+      nombre: 'Florencia',
+      apellido: 'Vega',
+      email: 'flor.vega@gmail.com',
+      fecha_creacion: new Date()
+    },
+    {
+      nombre: 'Julián',
+      apellido: 'Navarro',
+      email: 'julian.navarro@hotmail.com',
+      fecha_creacion: new Date()
+    },
+    {
+      nombre: 'Antonella',
+      apellido: 'Torres',
+      email: 'anto.torres@gmail.com',
+      fecha_creacion: new Date()
+    },
+    {
+      nombre: 'Sebastián',
+      apellido: 'Pérez',
+      email: 'sebaperez@yahoo.com',
+      fecha_creacion: new Date()
+    },
+    {
+      nombre: 'Martina',
+      apellido: 'Cruz',
+      email: 'martina.cruz@gmail.com',
+      fecha_creacion: new Date()
+    },
+    {
+      nombre: 'Agustín',
+      apellido: 'Morales',
+      email: 'agustinmorales@outlook.com',
+      fecha_creacion: new Date()
+    },
+    {
+      nombre: 'Emilia',
+      apellido: 'Ortega',
+      email: 'emiliao@gmail.com',
+      fecha_creacion: new Date()
+    },
+    {
+      nombre: 'Facundo',
+      apellido: 'Reyes',
+      email: 'facu.reyes@hotmail.com',
+      fecha_creacion: new Date()
+    },
+    {
+      nombre: 'Renata',
+      apellido: 'Campos',
+      email: 'renata.campos@gmail.com',
+      fecha_creacion: new Date()
+    }
+]
